@@ -1,1 +1,1 @@
-// types,props
+// types,prop
